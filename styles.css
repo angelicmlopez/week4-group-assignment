@@ -21,7 +21,9 @@ header h2 {
 }
 
 footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-image: linear-gradient(#403229, #6f563d);
+    color: white;
+    padding: 10px 0;
 }
 
 .row-content {
