@@ -17,11 +17,12 @@ header {
 }
 
 header h2 {
-    color: #090908;
+    color: #090908 ;
 }
 
 footer {
     background-image: linear-gradient(#403229, #6f563d);
+    text-align: center;
     color: white;
     padding: 10px 0;
 }
@@ -33,9 +34,15 @@ footer {
 }
 .navbar {
     background-color: #d49e8a;
+    padding: 10px 0;
+}
+h3 {
+    text-align: center;
+    padding: 20px 0;
 }
 h4 {
     text-align: center;
+    color: #d49e8a;
 }
 p {
     text-align: center;
