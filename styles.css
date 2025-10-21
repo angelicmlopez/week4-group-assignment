@@ -7,21 +7,21 @@ h1,h2,h3 {
     font-family:"Lobster", cursive;
 }
 h2 {
-    color: #3046c5
+    color: #050403
 }
 
 header {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B );
+    background-image: linear-gradient(to right, #403229, #6f563d, #e0d8d2 );
     color: white;
 }
 
 header h2 {
-    color: #CEC8FF;
+    color: #090908;
 }
 
 footer {
-background-image: linear-gradient(#CEC8FF, white)
+    background-image: linear-gradient(#CEC8FF, white);
 }
 
 .row-content {
@@ -30,7 +30,7 @@ background-image: linear-gradient(#CEC8FF, white)
     min-height:200px;    
 }
 .navbar {
-    background-color: #901cad;
+    background-color: #d49e8a;
 }
 h4 {
     text-align: center;
